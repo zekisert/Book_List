@@ -12,6 +12,7 @@ Delete İşlemleri
 ----------------
 
 Index Sayfamızda Delete Butonuna gerekli kodlarımızı düzenliyoruz.
+OnPostDelete metodumuzu Index.cshtml.cs classımızda oluşturuyoruz.
 
 
 

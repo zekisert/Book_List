@@ -8,6 +8,13 @@ Sadece input kısmında value = Update olması gerekmektedir.
 
 Edit sayfasına giderek id yapılandırması işlemini yapıyoruz.
 
+Delete İşlemleri
+----------------
+
+Index Sayfamızda Delete Butonuna gerekli kodlarımızı düzenliyoruz.
+
+
+
 
 
 

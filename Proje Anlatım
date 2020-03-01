@@ -1,2 +1,4 @@
 index sayfasında bulunan edit butonuna bağlantı vermemiz gerekiyor.
+Edit razorpage oluşturuyoruz.
+EditModel class işlemlerimizi yapıyoruz.
 

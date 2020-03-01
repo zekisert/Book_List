@@ -6,6 +6,8 @@ Sadece input kısmında value = Update olması gerekmektedir.
 
 Şimdi ise EditPostHandler işlemimizi EditModel'de yapmamız gerekiyor.
 
+Edit sayfasına giderek id yapılandırması işlemini yapıyoruz.
+
 
 
 

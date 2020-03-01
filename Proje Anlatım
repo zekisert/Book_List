@@ -1,4 +1,7 @@
 index sayfasında bulunan edit butonuna bağlantı vermemiz gerekiyor.
 Edit razorpage oluşturuyoruz.
 EditModel class işlemlerimizi yapıyoruz.
+EditUI Tasarımımızı oluşturuken tüm Create Sayfasını olduğu gibi Edit sayfasına yapıştırıyoruz.
+Sadece input kısmında value = Update olması gerekmektedir.
+
 

@@ -4,4 +4,7 @@ EditModel class işlemlerimizi yapıyoruz.
 EditUI Tasarımımızı oluşturuken tüm Create Sayfasını olduğu gibi Edit sayfasına yapıştırıyoruz.
 Sadece input kısmında value = Update olması gerekmektedir.
 
+Şimdi ise EditPostHandler işlemimizi EditModel'de yapmamız gerekiyor.
+
+
 

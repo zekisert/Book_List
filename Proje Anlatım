@@ -14,6 +14,13 @@ Delete İşlemleri
 Index Sayfamızda Delete Butonuna gerekli kodlarımızı düzenliyoruz.
 OnPostDelete metodumuzu Index.cshtml.cs classımızda oluşturuyoruz.
 
+Book Get API
+------------
+Scriptlerimizi Layout sayfasına yapıştırıyoruz.
+Controller Klasörümüzü açıyoruz ve BookController adında olacak.
+
+Controller ve Startup kısmında düzenlemeleri ni yapıyoruz.
+
 
 
 

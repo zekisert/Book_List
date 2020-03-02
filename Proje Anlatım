@@ -20,6 +20,11 @@ Scriptlerimizi Layout sayfasına yapıştırıyoruz.
 Controller Klasörümüzü açıyoruz ve BookController adında olacak.
 
 Controller ve Startup kısmında düzenlemeleri ni yapıyoruz.
+-----------------------------------------------------------------------
+DATA TABLES
+İlk olarak Index sayfamızda değişiklik yapacağız Div kapatalım
+Bu sayfadaki tasarımdan sonra javascript kodlarımızın yolunu gösteriyoruz.
+wwwroot altında js klasörüne bookList adında bir js dosyası ekliyoruz.
 
 
 
